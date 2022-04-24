@@ -1,9 +1,9 @@
-[![JavaScript_HTML_Python_NodeJS_MySQL_MongoDB_ReactJS_Express_Java_Spring_Liferay](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_Python_NodeJS_MySQL_MongoDB_ReactJS_Express_Java_Spring_Liferay)](https://pimp-my-readme.webapp.io)
+[![JavaScript_Java_NodeJS_MySQL_ReactJS_Express_HTML_CSS_Spring Boot](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_Java_NodeJS_MySQL_ReactJS_Express_HTML_CSS_Spring%20Boot)](https://pimp-my-readme.webapp.io)
 
 ### Hi there 👋
 
 - 🔭 I’m currently working on Connectis-ict
-- 🌱 I’m currently learning Liferay 
+- 🌱 I’m currently learning Next.js 
 
 <!--
 **eichemberger/eichemberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
