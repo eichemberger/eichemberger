@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Getronics
-- 🌱 I’m currently learning Rust 
+Full Stack Engineer based on Argentina. 
+
+Currently working at Sooft technology 
