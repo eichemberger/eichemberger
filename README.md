@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Full Stack Engineer based on Argentina. 
+Full Stack Engineer Ssr. based on Argentina. 
 
-Currently working at Sooft technology 
+Currently working at Interbanking 
